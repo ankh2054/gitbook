@@ -24,3 +24,7 @@
 
 * [Getting passwords of logged in users](hacking-demos/getting-passwords-of-logged-in-users.md)
 
+---
+
+* [Wordpress Remote Code Execution](wordpress-remote-code-execution.md)
+
