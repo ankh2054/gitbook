@@ -27,4 +27,5 @@
 ---
 
 * [Wordpress Remote Code Execution](wordpress-remote-code-execution.md)
+* [Grafana SSRF exploit](grafana-ssrf-exploit.md)
 
