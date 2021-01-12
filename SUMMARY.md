@@ -29,3 +29,7 @@
 * [Wordpress Remote Code Execution](wordpress-remote-code-execution.md)
 * [Grafana SSRF exploit](grafana-ssrf-exploit.md)
 
+## CVE Query API Examples
+
+* [Hyperion CVE Query](cve-query-api-examples/hyperion-cve-query.md)
+
