@@ -31,5 +31,6 @@
 
 ## CVE Query API Examples
 
+* [Wordpress + plugins CVE query](cve-query-api-examples/wordpress-+-plugins-cve-query.md)
 * [Hyperion CVE Query](cve-query-api-examples/hyperion-cve-query.md)
 
