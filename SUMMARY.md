@@ -24,7 +24,7 @@
 
 * [Getting passwords of logged in users](hacking-demos/getting-passwords-of-logged-in-users.md)
 
----
+***
 
 * [Wordpress Remote Code Execution](wordpress-remote-code-execution.md)
 * [Grafana SSRF exploit](grafana-ssrf-exploit.md)
@@ -33,4 +33,4 @@
 
 * [Wordpress + plugins CVE query](cve-query-api-examples/wordpress-+-plugins-cve-query.md)
 * [Hyperion CVE Query](cve-query-api-examples/hyperion-cve-query.md)
-
+* [Atomic API CVE query](cve-query-api-examples/atomic-api-cve-query.md)
